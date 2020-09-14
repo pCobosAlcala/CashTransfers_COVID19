@@ -1,4 +1,5 @@
 # SocialProtection
-Repositorio de bases de datos y análisis del documento "Instrumentos de política pública de protección social en América Latina y el Caribe".
 
-La versión final de este repositorio está pendiente de la aprobación de los revisores.
+Repository of databases and analysis of the document "Public policy instruments for social protection in Latin America and the Caribbean".
+
+The final version of this repository is pending from the reviewers approval.

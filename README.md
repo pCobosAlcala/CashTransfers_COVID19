@@ -1,4 +1,4 @@
-# SocialProtection
+# Cash Transfers - COVID-19
 
 Repository of databases and analysis of the document "Public policy instruments for social protection in Latin America and the Caribbean".
 

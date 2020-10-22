@@ -7,7 +7,7 @@ Repository of databases and code analysis of the document "[Responses to face th
 ## About this repository
 
 ### Folders
-This repository has two folders with the following content
+This repository has two folders with the following content:
 
 - **1_data**:
 	- An excel file (db.xlsx) with three sheets:

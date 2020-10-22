@@ -1,6 +1,6 @@
 # Responses to face the pandemic in Latin America and the Caribbean
 
-Repository of databases and code analysis of the document "[Responses to face the pandemic in Latin America and the Caribbean: the use of cash transfer programs and social protection information systems]".(http://twitter.com/)
+Repository of databases and code analysis of the document "[Responses to face the pandemic in Latin America and the Caribbean: the use of cash transfer programs and social protection information systems](http://twitter.com/)".
 
 	 > The final version of this repository is pending from the reviewers approval.
 
@@ -10,14 +10,14 @@ Repository of databases and code analysis of the document "[Responses to face th
 This repository has three folders with the following content
 
 - **1_data**: An excel file with three sheets:
-	- __i)__ responses to covid with their characteristics
--- ii) data on the countries of Latin America and the Caribbean
--- iii) information on pre-existing cash transfer programs to covid
-- **2_script**: 
-- **3_viz**: images
+	- i) responses to Covid-19 with their characteristics
+	- ii) data on the countries of Latin America and the Caribbean
+	- iii) information on pre-existing cash transfer programs in the region
+- **2_script**: the code used for calculations and visualizations
+- **3_viz**: the graphs of the article in English and Spanish
 
 ### License
-
+This work is under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## About the article
 

@@ -18,6 +18,7 @@ This repository has two folders with the following content
 		- i) catalogue
 		- ii) descriptors
 		- iii) responses' sources
+		
 - **2_script**: the code used for calculations and visualizations
 
 ### License

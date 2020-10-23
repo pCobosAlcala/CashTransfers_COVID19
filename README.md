@@ -27,11 +27,7 @@ This work is under a [Creative Commons Attribution 4.0 International License](ht
 ## About the article
 
 ### Abstract
-
+	 > Pending
+	 
 ### Citation
-
-### Data collection
-
-### Methodology
-
-### Images
+	 > Pending

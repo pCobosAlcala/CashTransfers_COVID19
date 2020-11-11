@@ -11,8 +11,8 @@ This repository has two folders with the following content:
 
 - **1_data**:
 	- An excel file (db.xlsx) with three sheets:
-		- i) responses to Covid-19 with their characteristics (responses_covid)
-		- ii) data on the countries of Latin America and the Caribbean (countries)
+		- i) cash transfer programs in response to the pandemic with their characteristics (responses_covid)
+		- ii) data about the countries of Latin America and the Caribbean (countries)
 		- iii) information on pre-existing cash transfer programs in the region (social_assistance_precovid)
 	- A folder (data_dictionary) with three excel files:
 		- i) catalogue

@@ -1,6 +1,6 @@
 # Responses to face the pandemic in Latin America and the Caribbean
 
-Repository of databases and code analysis of the document "[Responses to face the pandemic in Latin America and the Caribbean: the use of cash transfer programs and social protection information systems](http://twitter.com/)".
+Repository of databases and code analysis of the document "[Policy Responses to the Pandemic for COVID-19 in Latin America and the Caribbean: The Use of Cash Transfer Programs and Social Protection Information Systems](http://google.com/)".
 
 	 > The final version of this repository is pending from the reviewers approval.
 
@@ -27,7 +27,9 @@ This work is under a [Creative Commons Attribution 4.0 International License](ht
 ## About the article
 
 ### Abstract
-	 > Pending
-	 
-### Citation
-	 > Pending
+
+The COVID-19 pandemic has made evident the unfulfilled promise of social protection in Latin America and the Caribbean (LAC). Governments in LAC have used cash transfer programs (CTPs) to cushion the social and economic effects of the pandemic. In this document we describe how these programs have served as a vehicle to reach vulnerable populations. We show that LAC countries have used the existing social protection information systems to reach new populations, as well to deliver cash benefits. Governments’ responses were conditioned by the programs’ current coverage and the registries’ interoperability with other sources of information.
+
+To do so, we analyze the responses to the pandemic, distinguishing the ways in which countries innovated with their programs, the benefits’ coverage and size, and we study the characteristics of social information systems. Specifically, we review the existence of social registries and single beneficiary registries, we analyze their coverage, as well as their interoperability with other sources of information. We found that 64 CTPs were used in the region (in 24 out of 33 countries), 37 of which were emergency bonuses (implemented in 21 countries). However, more than half of the interventions were directed at a small proportion of the population (directly benefiting less than 10% of the population)(directly benefiting less than 10% of the population), and consisted of total additional benefits lower than a minimum monthly wage. We show that most CTPs in response to the pandemic used pre-existing information, both to register and select the beneficiaries (81% of the programs) and to route the payments (73%).
+
+Based on this analysis, we suggest three tasks for the coming years: to consolidate social protection information systems, to encourage the use of this information for the design, implementation and evaluation of public interventions, and to rethink the role of CTPs as part of social protection systems.

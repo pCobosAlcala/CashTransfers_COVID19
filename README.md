@@ -1,4 +1,4 @@
-# Responses to face the pandemic in Latin America and the Caribbean
+# Social Protection Responses to the Pandemic for COVID-19 in LAC
 
 Repository of databases and code analysis of the document "[Policy Responses to the Pandemic for COVID-19 in Latin America and the Caribbean: The Use of Cash Transfer Programs and Social Protection Information Systems](https://www.latinamerica.undp.org/content/rblac/en/home/library/crisis_prevention_and_recovery/respuestas-para-enfrentar-la-pandemia-en-america-latina-y-el-car.html)".
 
